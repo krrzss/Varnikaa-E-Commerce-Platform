@@ -1,4 +1,5 @@
 #Varnikaa E-commerce Website
+
 Welcome to the official GitHub repository for Varnikaa, a dynamic online fashion and jewelry boutique. This project is a front-end e-commerce website built with a focus on a seamless and modern user experience. It's a great example of a complete e-commerce solution using a modular, component-based approach.
 #Key Features
 Secure User Authentication: Implemented with Firebase to handle user sign-in, sign-up, and password reset functionalities.
